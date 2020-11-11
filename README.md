@@ -5,9 +5,9 @@ neste curso sera desenvolvido toda a API utilizando NodeJs e para o aplicativo s
 
 <h2>ferramentas utilizadas:</h2>
 
-<li>1- NodeJS</li>
-<li>2- IONIC</li>
-<li>3- Express</li>
-<li>4- MongoDB</li>
-<li>5- OneSignal</li>
-<li>6- </li>
+<li>NodeJS</li>
+<li>IONIC</li>
+<li>Express</li>
+<li>MongoDB</li>
+<li>OneSignal</li>
+<li></li>
