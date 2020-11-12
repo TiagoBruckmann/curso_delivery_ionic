@@ -10,4 +10,3 @@ neste curso sera desenvolvido toda a API utilizando NodeJs e para o aplicativo s
 <li>Express</li>
 <li>MongoDB</li>
 <li>OneSignal</li>
-<li></li>
